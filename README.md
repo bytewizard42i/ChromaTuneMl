@@ -7,6 +7,7 @@
 <p>The concept is to give the user the ability to adjust paramters for training ML models with 
   color gradient nodes which represent data points.</p>
 
+## We own https://ChromaTuneML.com
 ### Possible feature:
 <p>User establishes a baseline for color gradient and dynamics with a properly trained LLM
   with ChromaTuneMl running behind it.</p>
