@@ -3,7 +3,7 @@
 ### Here is a link to an article I wrote about the concept:<br>
 <p> https://medium.com/@johnmsanti/swarming-towards-truth-adjusting-ml-and-llm-parameters-and-hyper-parameters-with-a-color-0e1b0bf638a7 </p>
 
-### Functionality:
+## Functionality:
 <p>The concept is to give the user the ability to adjust paramters for training ML models with color gradient nodes which represent data points.</p>
 
 ### Possible feature:
