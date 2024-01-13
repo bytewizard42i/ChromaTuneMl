@@ -41,4 +41,5 @@
   <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because we have resolved our parameters and 
   outputs based on those inputs: 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;((f(x)paramter_node)(input_data_point)) = (output)
-
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Because we can now judge the inputs of our data set, we can now identify outliars</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- This information allows us to quickly work through the rest of the data set. And when complete, adjusting the quality factor of the outputs will auto aggregate to the parameters. This inturn will aggregate to the inputs quality score (in a color gradient. Naw we have Ai run super fast tests of adjusting parameters for the entire model, checking the outputs and readjusting the quality color of outputs which trickle back through to parameters and inputs.
