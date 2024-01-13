@@ -31,3 +31,14 @@
   Either more or less correct/desirable/truthy.</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Once we have performed many calculations CrhomaTuneMl 
   then designs a color gradient system for our parameter nodes</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Now we can watch our progress in color overlayed on our model data</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- We can look at the outputs now and adjust the color of those
+  outputs which are less desirable</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- That will automatically adjust the color position of the
+  paramter node</p>
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Once we have a satisfactory sample with colors aligned, 
+  We can now judge the quality of our inputs
+  <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;because we have resolved our parameters and 
+  outputs based on those inputs: 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;((f(x)paramter_node)(input_data_point)) = (output)
+
