@@ -4,8 +4,8 @@
 <p> https://medium.com/@johnmsanti/swarming-towards-truth-adjusting-ml-and-llm-parameters-and-hyper-parameters-with-a-color-0e1b0bf638a7 </p>
 
 ### Functionality:
-<p>- The concept is to give the user the ability to adjust paramters for training ML models with color gradient nodes which represent data points.</p> 
-<p>    - possible feature: user establishes a baseline for color gradient and dynamics with a properly trained LLM with ChromaTuneMl run through it.</p>
+<p style="margin-left:40px">-The concept is to give the user the ability to adjust paramters for training ML models with color gradient nodes which represent data points.</p> 
+  <p> Possible feature: user establishes a baseline for color gradient and dynamics with a properly trained LLM with ChromaTuneMl run through it.</p>
 <p>- Training a new model with the assistance of ChromaTuneMl:</p>
 <p>1. The user adjusts parameter weights as usual with ChromaTuneMl running in the background.</p>
 <p>2. Each each adjusment parameter is attached to a node which is adjustable in 8 directions in 3 dimentional space.</p>
