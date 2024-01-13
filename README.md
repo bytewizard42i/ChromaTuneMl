@@ -1,6 +1,6 @@
-"ChromaTuneMl"
-A visual color gradient control system for adjusting parameters for ML LLMs.
-I wrote a short article on it:
+# **ChromaTuneMl
+## A visual color gradient control system for adjusting parameters for ML LLMs.
+Here is a link to an article I wrote about the concept:
 https://medium.com/@johnmsanti/swarming-towards-truth-adjusting-ml-and-llm-parameters-and-hyper-parameters-with-a-color-0e1b0bf638a7
 Funtionality:
 -the concept is to give the user the ability to adjust paramters for training ML models with color gradient nodes which represent data points. 
