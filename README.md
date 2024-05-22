@@ -30,7 +30,7 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- We have outputs</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- As we adjust parameters, we get a different output.
   Either more or less correct/desirable/truthy.</p>
-<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Once we have performed many calculations CrhomaTuneMl 
+<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Once we have performed many calculations ChromaTuneMl 
   then designs a color gradient system for our parameter nodes</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- Now we can watch our progress in color overlayed on our model data</p>
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- We can look at the outputs now and adjust the color of those
